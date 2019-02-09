@@ -16,9 +16,9 @@ $ npm run dev
 
 ## Screenshots
 
-![Desktop home](./src/public/img/statics/screenshot_1)
-![Phone perfil](./src/public/img/statics/screenshot_2)
-![Phone carga](./src/public/img/statics/screenshot_3)
+![Desktop home](./src/public/img/statics/screenshot_1.png)
+![Phone perfil](./src/public/img/statics/screenshot_2.png)
+![Phone carga](./src/public/img/statics/screenshot_3.png)
 
 ## Modules
 * `ejs` Agregar al html lógica
@@ -50,15 +50,15 @@ The application has only a model and the next estructure:
 
 ```json
 {
-    image: {
-        title: String,
-        description: String,
-        filename: String,
-        path: String,
-        originalname: String,
-        mimetype: String,
-        size: Number
-        created_at: Date <default: Date.now()>
+    "image": {
+        "title": "String",
+        "description": "String",
+        "filename": "String",
+        "path": "String",
+        "originalname": "String",
+        "mimetype": "String",
+        "size": "Number",
+        "created_at": "Date <default: Date.now()>"
     }
 }
 ```
