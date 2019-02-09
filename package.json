@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Aplicación práctica usando un servidor express y mongodb para gestionar una web de imágenes",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/IngPorto/porterest-practica.git"
+  },
   "scripts": {
     "dev": "nodemon src/index.js"
   },
