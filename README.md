@@ -16,7 +16,10 @@ $ npm run dev
 
 ## Screenshots
 
+Desktop view
 ![Desktop home](./src/public/img/statics/screenshot_1.png)
+
+Mobile view
 ![Phone perfil](./src/public/img/statics/screenshot_2.png)
 ![Phone carga](./src/public/img/statics/screenshot_3.png)
 
