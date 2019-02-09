@@ -1,3 +1,11 @@
+# Porterest [Still in development]
+![node_v11.9.0](https://img.shields.io/badge/node-v11.9.0-green.svg)
+![express_4.16.4](https://img.shields.io/badge/express-v4.16.4-blue.svg)
+![mongodb_v4.0.6](https://img.shields.io/badge/mongodb-v4.0.6-%2305a081.svg)
+![bootstrap_](https://img.shields.io/badge/bootstrap-v4-%236b4288.svg)
+![npm version used](https://img.shields.io/badge/npm-v6.5.0-red.svg)
+
+Application for upload images and delete it through of ExpressJS server.
 
 ## Installation
 Install all dependencies
@@ -40,7 +48,7 @@ $ npm run dev
 * `Bootstrap 4`
 * `Animate.css 3.7`
 
-## Estructura de carpetas
+## Folders structure
 * `/src/models` MongoDB's models.
 * `/src/public` All resurces it can be access fron browser (js, css, all front end code).
 * `/src/routes` Routes used by Server.
@@ -65,3 +73,4 @@ The application has only a model and the next estructure:
     }
 }
 ```
+> [All photos are free for personal and commercial purposes.](https://www.pexels.com/photo-license/)
